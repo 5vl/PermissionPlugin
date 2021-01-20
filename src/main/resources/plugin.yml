@@ -1,0 +1,7 @@
+name: Permissions
+version: ${project.version}
+main: permission.permissions.permissions
+api-version: 1.16
+authors: [ 5vl ]
+description: A permission plguin made by 5vl.
+website: https://github.com/5vl/PermissionPlugin
